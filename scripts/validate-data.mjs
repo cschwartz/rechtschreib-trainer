@@ -1,6 +1,5 @@
 import { readFile, writeFile } from "node:fs/promises";
 import { resolve } from "node:path";
-import { pathToFileURL } from "node:url";
 
 const root = resolve(import.meta.dirname, "..");
 const dataPath = resolve(root, "src/data/spelling-items.json");
@@ -161,4 +160,4 @@ async function main() {
   console.log(`Validated ${data.items.length} spelling items.`);
 }
 
-if (import.meta.url === pathToFileURL(process.argv[1] ?? "").href) await main();
+if (process.argv[1]?.endsWith("/scripts/validate-data.mjs")) await main();
