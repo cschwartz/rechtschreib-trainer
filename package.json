@@ -1,0 +1,20 @@
+{
+  "name": "rechtschreib-trainer",
+  "version": "1.0.0",
+  "description": "A \"Duolingo for German spelling\" web app for 6th-grade Rechtschreibung practice — dictation with TTS, fill-in-the-blank, find-the-mistake, capitalization. Single self-contained HTML file, works offline.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://localhost:26831/cschwartz/rechtschreib-trainer"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "esbuild": "^0.28.1",
+    "typescript": "^5.9.3"
+  }
+}
