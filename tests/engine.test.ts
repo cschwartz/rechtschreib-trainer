@@ -2,7 +2,7 @@ import assert from "node:assert/strict";
 import test from "node:test";
 import { gradeDictationAnswer, normalizeAnswer } from "../src/engine/grading";
 import { getCapitalizationTargets, submitExercise } from "../src/engine/exercises";
-import { emptyProgress } from "../src/store/progress";
+import { emptyProgress, readProgress, saveProgress } from "../src/store/progress";
 import type { CapitalizationItem, DictationItem } from "../src/types";
 
 const word: DictationItem = {
@@ -52,6 +52,19 @@ test("dictation submission updates XP, streak, session correctness, and resets a
   assert.equal(second.progress.answered, 2);
   assert.equal(second.progress.correct, 1);
   assert.equal(second.progress.byMode.dictation.answered, 2);
+});
+
+test("progress persistence round-trips and safely ignores unavailable or corrupt storage", () => {
+  const values = new Map<string, string>();
+  const storage = {
+    getItem: (key: string) => values.get(key) ?? null,
+    setItem: (key: string, value: string) => values.set(key, value),
+  };
+  const result = submitExercise(emptyProgress(), word, "Fliege").progress;
+  saveProgress(result, storage);
+  assert.deepEqual(readProgress(storage), result);
+  assert.deepEqual(readProgress({ getItem: () => "not-json" }), emptyProgress());
+  assert.doesNotThrow(() => saveProgress(result, { setItem: () => { throw new Error("blocked"); } }));
 });
 
 test("capitalization target matching preserves target word positions", () => {

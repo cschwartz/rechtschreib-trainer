@@ -21,9 +21,9 @@ export function emptyProgress(): ProgressState {
   };
 }
 
-export function readProgress(storage: Pick<Storage, "getItem"> = localStorage): ProgressState {
+export function readProgress(storage?: Pick<Storage, "getItem">): ProgressState {
   try {
-    const raw = storage.getItem(STORAGE_KEY);
+    const raw = (storage ?? globalThis.localStorage).getItem(STORAGE_KEY);
     if (!raw) return emptyProgress();
     const value = JSON.parse(raw) as Partial<ProgressState>;
     if (
@@ -46,10 +46,10 @@ export function readProgress(storage: Pick<Storage, "getItem"> = localStorage): 
 
 export function saveProgress(
   progress: ProgressState,
-  storage: Pick<Storage, "setItem"> = localStorage,
+  storage?: Pick<Storage, "setItem">,
 ): void {
   try {
-    storage.setItem(STORAGE_KEY, JSON.stringify(progress));
+    (storage ?? globalThis.localStorage).setItem(STORAGE_KEY, JSON.stringify(progress));
   } catch {
     // Progress remains available for the current session when storage is unavailable.
   }
