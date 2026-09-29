@@ -362,7 +362,7 @@
       ],
       "explanation": "Langes i wird als ie geschrieben: Wiese.",
       "source": "Eigenproduktion Klasse 6",
-      "promptMasked": "W_ese",
+      "promptMasked": "W_se",
       "options": [
         "i",
         "ie"
@@ -398,7 +398,7 @@
       ],
       "explanation": "Langes i wird als ie geschrieben: Spiegel.",
       "source": "Eigenproduktion Klasse 6",
-      "promptMasked": "Sp_egel",
+      "promptMasked": "Sp_gel",
       "options": [
         "i",
         "ie"
@@ -416,7 +416,7 @@
       ],
       "explanation": "Langes i wird als ie geschrieben: Papier.",
       "source": "Eigenproduktion Klasse 6",
-      "promptMasked": "Pap_er",
+      "promptMasked": "Pap_r",
       "options": [
         "i",
         "ie"
@@ -434,7 +434,7 @@
       ],
       "explanation": "Langes i wird als ie geschrieben: Biene.",
       "source": "Eigenproduktion Klasse 6",
-      "promptMasked": "B_ene",
+      "promptMasked": "B_ne",
       "options": [
         "i",
         "ie"
@@ -488,7 +488,7 @@
       ],
       "explanation": "Langes i wird als ie geschrieben: Liebe.",
       "source": "Eigenproduktion Klasse 6",
-      "promptMasked": "L_ebe",
+      "promptMasked": "L_be",
       "options": [
         "i",
         "ie"
