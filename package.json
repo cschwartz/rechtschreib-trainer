@@ -1,0 +1,8 @@
+{
+  "name": "rechtschreib-trainer",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "data:update-and-validate": "node scripts/update-and-validate-spelling-data.mjs"
+  }
+}
