@@ -28,10 +28,13 @@ export function checkExerciseAnswer(
       return gradeDictationAnswer(answer, item);
     case "fill-blank":
       return isFillAnswerCorrect(answer, item.correctOption);
-    case "find-mistake":
+    case "find-mistake": {
+      const words = [...item.sentence.matchAll(/\p{L}[\p{L}\p{M}'’\-]*/gu)];
+      const target = words.findIndex((word) => word[0] === item.wrongToken);
       return selectedTokens.length === 1 &&
         answer === item.correctToken &&
-        selectedTokens[0] >= 0;
+        selectedTokens[0] === target;
+    }
     case "capitalization": {
       const expected = getCapitalizationTargets(item);
       return expected.length === selectedTokens.length &&
