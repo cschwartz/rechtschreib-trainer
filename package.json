@@ -1,0 +1,20 @@
+{
+  "name": "rechtschreib-trainer",
+  "version": "1.0.0",
+  "description": "A \"Duolingo for German spelling\" web app for 6th-grade Rechtschreibung practice — dictation with TTS, fill-in-the-blank, find-the-mistake, capitalization. Single self-contained HTML file, works offline.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "validate:data": "node scripts/validate-data.mjs",
+    "update:data": "node scripts/validate-data.mjs --update-metadata",
+    "test": "node scripts/test.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.1",
+    "typescript": "^5.9.3"
+  }
+}
