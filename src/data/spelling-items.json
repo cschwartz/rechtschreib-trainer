@@ -1,0 +1,2547 @@
+{
+  "meta": {
+    "schemaVersion": "1.0.0",
+    "language": "de-DE",
+    "gradeTarget": "6-gymnasium",
+    "totalItems": 150,
+    "distributionByCategory": {
+      "double-consonant": 20,
+      "ie-i": 20,
+      "umlaut-e": 15,
+      "umlaut-eu": 15,
+      "s-ss-ß": 20,
+      "silent-h": 15,
+      "das-dass": 15,
+      "capitalization": 20,
+      "mixed": 10
+    }
+  },
+  "items": [
+    {
+      "id": "fill-0001",
+      "kind": "fill-blank",
+      "category": "double-consonant",
+      "difficulty": 1,
+      "tags": [
+        "Doppelkonsonant"
+      ],
+      "explanation": "Nach kurzem Vokal (i) folgt ein doppelter Konsonant: Schiff.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "Schi_",
+      "options": [
+        "f",
+        "ff"
+      ],
+      "correctOption": "ff",
+      "solutionWord": "Schiff"
+    },
+    {
+      "id": "fill-0002",
+      "kind": "fill-blank",
+      "category": "double-consonant",
+      "difficulty": 1,
+      "tags": [
+        "Doppelkonsonant"
+      ],
+      "explanation": "Nach kurzem Vokal (e) steht ein doppelter Konsonant: Teller.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "Te_er",
+      "options": [
+        "l",
+        "ll"
+      ],
+      "correctOption": "ll",
+      "solutionWord": "Teller"
+    },
+    {
+      "id": "fill-0003",
+      "kind": "fill-blank",
+      "category": "double-consonant",
+      "difficulty": 2,
+      "tags": [
+        "Doppelkonsonant"
+      ],
+      "explanation": "Nach kurzem Vokal (o) folgt ein doppelter Konsonant: Hoffnung.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "Ho_nung",
+      "options": [
+        "f",
+        "ff"
+      ],
+      "correctOption": "ff",
+      "solutionWord": "Hoffnung"
+    },
+    {
+      "id": "fill-0004",
+      "kind": "fill-blank",
+      "category": "double-consonant",
+      "difficulty": 1,
+      "tags": [
+        "Doppelkonsonant"
+      ],
+      "explanation": "Nach kurzem Vokal (o) steht ein doppelter Konsonant: Sommer.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "So_er",
+      "options": [
+        "m",
+        "mm"
+      ],
+      "correctOption": "mm",
+      "solutionWord": "Sommer"
+    },
+    {
+      "id": "fill-0005",
+      "kind": "fill-blank",
+      "category": "double-consonant",
+      "difficulty": 1,
+      "tags": [
+        "Doppelkonsonant"
+      ],
+      "explanation": "Nach kurzem Vokal (u) folgt ein doppelter Konsonant: Suppe.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "Su_e",
+      "options": [
+        "p",
+        "pp"
+      ],
+      "correctOption": "pp",
+      "solutionWord": "Suppe"
+    },
+    {
+      "id": "fill-0006",
+      "kind": "fill-blank",
+      "category": "double-consonant",
+      "difficulty": 1,
+      "tags": [
+        "Doppelkonsonant"
+      ],
+      "explanation": "Nach kurzem Vokal (i) steht ein doppelter Konsonant: Himmel.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "Hi_el",
+      "options": [
+        "m",
+        "mm"
+      ],
+      "correctOption": "mm",
+      "solutionWord": "Himmel"
+    },
+    {
+      "id": "fill-0007",
+      "kind": "fill-blank",
+      "category": "double-consonant",
+      "difficulty": 1,
+      "tags": [
+        "Doppelkonsonant"
+      ],
+      "explanation": "Nach kurzem Vokal (u) folgt ein doppelter Konsonant: Mutter.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "Mu_er",
+      "options": [
+        "t",
+        "tt"
+      ],
+      "correctOption": "tt",
+      "solutionWord": "Mutter"
+    },
+    {
+      "id": "fill-0008",
+      "kind": "fill-blank",
+      "category": "double-consonant",
+      "difficulty": 1,
+      "tags": [
+        "Doppelkonsonant"
+      ],
+      "explanation": "Nach kurzem, betontem Vokal (a) steht ein doppelter Konsonant: Kaffee.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "Ka_ee",
+      "options": [
+        "f",
+        "ff"
+      ],
+      "correctOption": "ff",
+      "solutionWord": "Kaffee"
+    },
+    {
+      "id": "fill-0009",
+      "kind": "fill-blank",
+      "category": "double-consonant",
+      "difficulty": 1,
+      "tags": [
+        "Doppelkonsonant"
+      ],
+      "explanation": "Nach kurzem Vokal (u) folgt ein doppelter Konsonant: Puppe.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "Pu_e",
+      "options": [
+        "p",
+        "pp"
+      ],
+      "correctOption": "pp",
+      "solutionWord": "Puppe"
+    },
+    {
+      "id": "fill-0010",
+      "kind": "fill-blank",
+      "category": "double-consonant",
+      "difficulty": 2,
+      "tags": [
+        "Doppelkonsonant"
+      ],
+      "explanation": "Nach kurzem Vokal (o) steht ein doppelter Konsonant: Roller.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "Ro_er",
+      "options": [
+        "l",
+        "ll"
+      ],
+      "correctOption": "ll",
+      "solutionWord": "Roller"
+    },
+    {
+      "id": "dict-word-0001",
+      "kind": "dictation",
+      "category": "double-consonant",
+      "difficulty": 1,
+      "tags": [
+        "Doppelkonsonant"
+      ],
+      "explanation": "Nach kurzem Vokal (a) steht ein doppelter Konsonant: Klasse.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "word",
+      "promptText": "Klasse",
+      "acceptedAnswers": [
+        "Klasse"
+      ],
+      "gradingMode": "strict"
+    },
+    {
+      "id": "dict-word-0002",
+      "kind": "dictation",
+      "category": "double-consonant",
+      "difficulty": 1,
+      "tags": [
+        "Doppelkonsonant"
+      ],
+      "explanation": "Nach kurzem Vokal (i) steht ein doppelter Konsonant: Kissen.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "word",
+      "promptText": "Kissen",
+      "acceptedAnswers": [
+        "Kissen"
+      ],
+      "gradingMode": "strict"
+    },
+    {
+      "id": "dict-word-0003",
+      "kind": "dictation",
+      "category": "double-consonant",
+      "difficulty": 1,
+      "tags": [
+        "Doppelkonsonant"
+      ],
+      "explanation": "Nach kurzem Vokal (e) steht ein doppelter Konsonant: Treppe.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "word",
+      "promptText": "Treppe",
+      "acceptedAnswers": [
+        "Treppe"
+      ],
+      "gradingMode": "strict"
+    },
+    {
+      "id": "dict-word-0004",
+      "kind": "dictation",
+      "category": "double-consonant",
+      "difficulty": 1,
+      "tags": [
+        "Doppelkonsonant"
+      ],
+      "explanation": "Nach kurzem Vokal (a) steht ein doppelter Konsonant: Kappe.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "word",
+      "promptText": "Kappe",
+      "acceptedAnswers": [
+        "Kappe"
+      ],
+      "gradingMode": "strict"
+    },
+    {
+      "id": "dict-word-0005",
+      "kind": "dictation",
+      "category": "double-consonant",
+      "difficulty": 2,
+      "tags": [
+        "Doppelkonsonant"
+      ],
+      "explanation": "Nach kurzem Vokal (ö) steht ein doppelter Konsonant: Löffel.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "word",
+      "promptText": "Löffel",
+      "acceptedAnswers": [
+        "Löffel"
+      ],
+      "gradingMode": "strict"
+    },
+    {
+      "id": "mistake-0001",
+      "kind": "find-mistake",
+      "category": "double-consonant",
+      "difficulty": 2,
+      "tags": [
+        "Doppelkonsonant"
+      ],
+      "explanation": "Nach kurzem Vokal (o) braucht es zwei m: Sommer.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Im Somer fahren wir oft an den Baggersee.",
+      "wrongToken": "Somer",
+      "correctToken": "Sommer"
+    },
+    {
+      "id": "mistake-0002",
+      "kind": "find-mistake",
+      "category": "double-consonant",
+      "difficulty": 2,
+      "tags": [
+        "Doppelkonsonant"
+      ],
+      "explanation": "Nach kurzem Vokal (e) braucht es zwei l: Kellner.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Der Kelner brachte uns die Speisekarte ins Restaurant.",
+      "wrongToken": "Kelner",
+      "correctToken": "Kellner"
+    },
+    {
+      "id": "mistake-0003",
+      "kind": "find-mistake",
+      "category": "double-consonant",
+      "difficulty": 2,
+      "tags": [
+        "Doppelkonsonant"
+      ],
+      "explanation": "Nach kurzem Vokal (i) braucht es zwei m: Zimmer.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Meine Schwester hat ein neues Zimer bekommen.",
+      "wrongToken": "Zimer",
+      "correctToken": "Zimmer"
+    },
+    {
+      "id": "mistake-0004",
+      "kind": "find-mistake",
+      "category": "double-consonant",
+      "difficulty": 2,
+      "tags": [
+        "Doppelkonsonant"
+      ],
+      "explanation": "Nach kurzem Vokal (o) braucht es zwei l: Roller.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Mein Bruder fährt mit seinem neuen Roler zur Schule.",
+      "wrongToken": "Roler",
+      "correctToken": "Roller"
+    },
+    {
+      "id": "mistake-0005",
+      "kind": "find-mistake",
+      "category": "double-consonant",
+      "difficulty": 3,
+      "tags": [
+        "Doppelkonsonant"
+      ],
+      "explanation": "Sofa wird trotz kurzem Vokal nur mit einem f geschrieben – eine Ausnahme.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Die Familie sitzt abends oft gemütlich auf dem Soffa.",
+      "wrongToken": "Soffa",
+      "correctToken": "Sofa"
+    },
+    {
+      "id": "fill-0011",
+      "kind": "fill-blank",
+      "category": "ie-i",
+      "difficulty": 1,
+      "tags": [
+        "ie-i"
+      ],
+      "explanation": "Langes i wird als ie geschrieben: Wiese.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "W_ese",
+      "options": [
+        "i",
+        "ie"
+      ],
+      "correctOption": "ie",
+      "solutionWord": "Wiese"
+    },
+    {
+      "id": "fill-0012",
+      "kind": "fill-blank",
+      "category": "ie-i",
+      "difficulty": 1,
+      "tags": [
+        "ie-i"
+      ],
+      "explanation": "Kurzes i wird nur mit einem i geschrieben: Fisch.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "F_sch",
+      "options": [
+        "i",
+        "ie"
+      ],
+      "correctOption": "i",
+      "solutionWord": "Fisch"
+    },
+    {
+      "id": "fill-0013",
+      "kind": "fill-blank",
+      "category": "ie-i",
+      "difficulty": 2,
+      "tags": [
+        "ie-i"
+      ],
+      "explanation": "Langes i wird als ie geschrieben: Spiegel.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "Sp_egel",
+      "options": [
+        "i",
+        "ie"
+      ],
+      "correctOption": "ie",
+      "solutionWord": "Spiegel"
+    },
+    {
+      "id": "fill-0014",
+      "kind": "fill-blank",
+      "category": "ie-i",
+      "difficulty": 3,
+      "tags": [
+        "ie-i"
+      ],
+      "explanation": "Langes i wird als ie geschrieben: Papier.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "Pap_er",
+      "options": [
+        "i",
+        "ie"
+      ],
+      "correctOption": "ie",
+      "solutionWord": "Papier"
+    },
+    {
+      "id": "fill-0015",
+      "kind": "fill-blank",
+      "category": "ie-i",
+      "difficulty": 1,
+      "tags": [
+        "ie-i"
+      ],
+      "explanation": "Langes i wird als ie geschrieben: Biene.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "B_ene",
+      "options": [
+        "i",
+        "ie"
+      ],
+      "correctOption": "ie",
+      "solutionWord": "Biene"
+    },
+    {
+      "id": "fill-0016",
+      "kind": "fill-blank",
+      "category": "ie-i",
+      "difficulty": 1,
+      "tags": [
+        "ie-i"
+      ],
+      "explanation": "Kurzes i wird nur mit einem i geschrieben: Winter.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "W_nter",
+      "options": [
+        "i",
+        "ie"
+      ],
+      "correctOption": "i",
+      "solutionWord": "Winter"
+    },
+    {
+      "id": "fill-0017",
+      "kind": "fill-blank",
+      "category": "ie-i",
+      "difficulty": 1,
+      "tags": [
+        "ie-i"
+      ],
+      "explanation": "Kurzes i wird nur mit einem i geschrieben: Kino.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "K_no",
+      "options": [
+        "i",
+        "ie"
+      ],
+      "correctOption": "i",
+      "solutionWord": "Kino"
+    },
+    {
+      "id": "fill-0018",
+      "kind": "fill-blank",
+      "category": "ie-i",
+      "difficulty": 1,
+      "tags": [
+        "ie-i"
+      ],
+      "explanation": "Langes i wird als ie geschrieben: Liebe.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "L_ebe",
+      "options": [
+        "i",
+        "ie"
+      ],
+      "correctOption": "ie",
+      "solutionWord": "Liebe"
+    },
+    {
+      "id": "fill-0019",
+      "kind": "fill-blank",
+      "category": "ie-i",
+      "difficulty": 1,
+      "tags": [
+        "ie-i"
+      ],
+      "explanation": "Kurzes i wird nur mit einem i geschrieben: Milch.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "M_lch",
+      "options": [
+        "i",
+        "ie"
+      ],
+      "correctOption": "i",
+      "solutionWord": "Milch"
+    },
+    {
+      "id": "fill-0020",
+      "kind": "fill-blank",
+      "category": "ie-i",
+      "difficulty": 1,
+      "tags": [
+        "ie-i"
+      ],
+      "explanation": "Kurzes i wird nur mit einem i geschrieben: Tiger.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "T_ger",
+      "options": [
+        "i",
+        "ie"
+      ],
+      "correctOption": "i",
+      "solutionWord": "Tiger"
+    },
+    {
+      "id": "dict-word-0006",
+      "kind": "dictation",
+      "category": "ie-i",
+      "difficulty": 1,
+      "tags": [
+        "ie-i"
+      ],
+      "explanation": "Langes i wird als ie geschrieben: Fliege.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "word",
+      "promptText": "Fliege",
+      "acceptedAnswers": [
+        "Fliege"
+      ],
+      "gradingMode": "strict"
+    },
+    {
+      "id": "dict-word-0007",
+      "kind": "dictation",
+      "category": "ie-i",
+      "difficulty": 1,
+      "tags": [
+        "ie-i"
+      ],
+      "explanation": "Langes i wird als ie geschrieben: Tier.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "word",
+      "promptText": "Tier",
+      "acceptedAnswers": [
+        "Tier"
+      ],
+      "gradingMode": "strict"
+    },
+    {
+      "id": "dict-word-0008",
+      "kind": "dictation",
+      "category": "ie-i",
+      "difficulty": 1,
+      "tags": [
+        "ie-i"
+      ],
+      "explanation": "Kurzes i wird nur mit einem i geschrieben: Kind.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "word",
+      "promptText": "Kind",
+      "acceptedAnswers": [
+        "Kind"
+      ],
+      "gradingMode": "strict"
+    },
+    {
+      "id": "dict-word-0009",
+      "kind": "dictation",
+      "category": "ie-i",
+      "difficulty": 3,
+      "tags": [
+        "ie-i"
+      ],
+      "explanation": "Langes i wird als ie geschrieben: Familie.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "word",
+      "promptText": "Familie",
+      "acceptedAnswers": [
+        "Familie"
+      ],
+      "gradingMode": "strict"
+    },
+    {
+      "id": "dict-word-0010",
+      "kind": "dictation",
+      "category": "ie-i",
+      "difficulty": 2,
+      "tags": [
+        "ie-i"
+      ],
+      "explanation": "Langes i wird als ie geschrieben: Ziel.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "word",
+      "promptText": "Ziel",
+      "acceptedAnswers": [
+        "Ziel"
+      ],
+      "gradingMode": "strict"
+    },
+    {
+      "id": "mistake-0006",
+      "kind": "find-mistake",
+      "category": "ie-i",
+      "difficulty": 2,
+      "tags": [
+        "ie-i"
+      ],
+      "explanation": "Langes i wird als ie geschrieben: Biene.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Die kleine Bine sammelt Honig von Blume zu Blume.",
+      "wrongToken": "Bine",
+      "correctToken": "Biene"
+    },
+    {
+      "id": "mistake-0007",
+      "kind": "find-mistake",
+      "category": "ie-i",
+      "difficulty": 2,
+      "tags": [
+        "ie-i"
+      ],
+      "explanation": "Langes i wird als ie geschrieben: Spiegel.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Am Fenster hängt ein runder Spigel.",
+      "wrongToken": "Spigel",
+      "correctToken": "Spiegel"
+    },
+    {
+      "id": "mistake-0008",
+      "kind": "find-mistake",
+      "category": "ie-i",
+      "difficulty": 3,
+      "tags": [
+        "ie-i"
+      ],
+      "explanation": "Die Verbform von liegen wird mit ie geschrieben: liegt.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Im Winter ligt oft viel Schnee auf den Bergen.",
+      "wrongToken": "ligt",
+      "correctToken": "liegt"
+    },
+    {
+      "id": "mistake-0009",
+      "kind": "find-mistake",
+      "category": "ie-i",
+      "difficulty": 2,
+      "tags": [
+        "ie-i"
+      ],
+      "explanation": "Langes i wird als ie geschrieben: Papier.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Wir brauchen für das Bild buntes Papir.",
+      "wrongToken": "Papir",
+      "correctToken": "Papier"
+    },
+    {
+      "id": "mistake-0010",
+      "kind": "find-mistake",
+      "category": "ie-i",
+      "difficulty": 1,
+      "tags": [
+        "ie-i"
+      ],
+      "explanation": "Langes i wird als ie geschrieben: Tier.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Ein Hund ist ein treues Tir.",
+      "wrongToken": "Tir",
+      "correctToken": "Tier"
+    },
+    {
+      "id": "fill-0021",
+      "kind": "fill-blank",
+      "category": "umlaut-e",
+      "difficulty": 2,
+      "tags": [
+        "Umlaut-e"
+      ],
+      "explanation": "Verwandtes Wort mit a: backen → Bäcker.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "B_cker",
+      "options": [
+        "e",
+        "ä"
+      ],
+      "correctOption": "ä",
+      "solutionWord": "Bäcker"
+    },
+    {
+      "id": "fill-0022",
+      "kind": "fill-blank",
+      "category": "umlaut-e",
+      "difficulty": 3,
+      "tags": [
+        "Umlaut-e"
+      ],
+      "explanation": "Verwandtes Wort mit a: waschen → Wäsche.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "W_sche",
+      "options": [
+        "e",
+        "ä"
+      ],
+      "correctOption": "ä",
+      "solutionWord": "Wäsche"
+    },
+    {
+      "id": "fill-0023",
+      "kind": "fill-blank",
+      "category": "umlaut-e",
+      "difficulty": 2,
+      "tags": [
+        "Umlaut-e"
+      ],
+      "explanation": "Verwandtes Wort mit a: das Land → Länder.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "L_nder",
+      "options": [
+        "e",
+        "ä"
+      ],
+      "correctOption": "ä",
+      "solutionWord": "Länder"
+    },
+    {
+      "id": "fill-0024",
+      "kind": "fill-blank",
+      "category": "umlaut-e",
+      "difficulty": 2,
+      "tags": [
+        "Umlaut-e"
+      ],
+      "explanation": "Verwandtes Wort mit a: der Mann → Männer.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "M_nner",
+      "options": [
+        "e",
+        "ä"
+      ],
+      "correctOption": "ä",
+      "solutionWord": "Männer"
+    },
+    {
+      "id": "fill-0025",
+      "kind": "fill-blank",
+      "category": "umlaut-e",
+      "difficulty": 1,
+      "tags": [
+        "Umlaut-e"
+      ],
+      "explanation": "Käse wird mit ä geschrieben.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "K_se",
+      "options": [
+        "e",
+        "ä"
+      ],
+      "correctOption": "ä",
+      "solutionWord": "Käse"
+    },
+    {
+      "id": "fill-0026",
+      "kind": "fill-blank",
+      "category": "umlaut-e",
+      "difficulty": 1,
+      "tags": [
+        "Umlaut-e"
+      ],
+      "explanation": "Verwandtes Wort mit a: die Hand → Hände.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "H_nde",
+      "options": [
+        "e",
+        "ä"
+      ],
+      "correctOption": "ä",
+      "solutionWord": "Hände"
+    },
+    {
+      "id": "fill-0027",
+      "kind": "fill-blank",
+      "category": "umlaut-e",
+      "difficulty": 3,
+      "tags": [
+        "Umlaut-e"
+      ],
+      "explanation": "Verwandtes Wort mit a: die Stadt → Städte.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "St_dte",
+      "options": [
+        "e",
+        "ä"
+      ],
+      "correctOption": "ä",
+      "solutionWord": "Städte"
+    },
+    {
+      "id": "fill-0028",
+      "kind": "fill-blank",
+      "category": "umlaut-e",
+      "difficulty": 2,
+      "tags": [
+        "Umlaut-e"
+      ],
+      "explanation": "Verwandtes Wort mit a: der Vater → Väter.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "V_ter",
+      "options": [
+        "e",
+        "ä"
+      ],
+      "correctOption": "ä",
+      "solutionWord": "Väter"
+    },
+    {
+      "id": "dict-word-0011",
+      "kind": "dictation",
+      "category": "umlaut-e",
+      "difficulty": 1,
+      "tags": [
+        "Umlaut-e"
+      ],
+      "explanation": "Mädchen wird mit ä geschrieben.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "word",
+      "promptText": "Mädchen",
+      "acceptedAnswers": [
+        "Mädchen"
+      ],
+      "gradingMode": "strict"
+    },
+    {
+      "id": "dict-word-0012",
+      "kind": "dictation",
+      "category": "umlaut-e",
+      "difficulty": 4,
+      "tags": [
+        "Umlaut-e"
+      ],
+      "explanation": "Verwandtes Wort mit a: sprechen/die Sprache → Gespräch.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "word",
+      "promptText": "Gespräch",
+      "acceptedAnswers": [
+        "Gespräch"
+      ],
+      "gradingMode": "strict"
+    },
+    {
+      "id": "dict-word-0013",
+      "kind": "dictation",
+      "category": "umlaut-e",
+      "difficulty": 2,
+      "tags": [
+        "Umlaut-e"
+      ],
+      "explanation": "Verwandtes Wort mit a: backen → Bäckerei.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "word",
+      "promptText": "Bäckerei",
+      "acceptedAnswers": [
+        "Bäckerei"
+      ],
+      "gradingMode": "strict"
+    },
+    {
+      "id": "dict-word-0014",
+      "kind": "dictation",
+      "category": "umlaut-e",
+      "difficulty": 2,
+      "tags": [
+        "Umlaut-e"
+      ],
+      "explanation": "Verwandtes Wort mit a: die Wand → Wände.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "word",
+      "promptText": "Wände",
+      "acceptedAnswers": [
+        "Wände"
+      ],
+      "gradingMode": "strict"
+    },
+    {
+      "id": "mistake-0011",
+      "kind": "find-mistake",
+      "category": "umlaut-e",
+      "difficulty": 3,
+      "tags": [
+        "Umlaut-e"
+      ],
+      "explanation": "Verwandtes Wort mit a: backen → Bäckerei.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Die Bekerei in unserer Straße verkauft frisches Brot.",
+      "wrongToken": "Bekerei",
+      "correctToken": "Bäckerei"
+    },
+    {
+      "id": "mistake-0012",
+      "kind": "find-mistake",
+      "category": "umlaut-e",
+      "difficulty": 2,
+      "tags": [
+        "Umlaut-e"
+      ],
+      "explanation": "Verwandtes Wort mit a: das Land → Ländern.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "In vielen Endern Europas wird unterschiedlich gegessen.",
+      "wrongToken": "Endern",
+      "correctToken": "Ländern"
+    },
+    {
+      "id": "mistake-0013",
+      "kind": "find-mistake",
+      "category": "umlaut-e",
+      "difficulty": 2,
+      "tags": [
+        "Umlaut-e"
+      ],
+      "explanation": "Verwandtes Wort mit a: der Mann → Männer.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Nach dem Fußballspiel waren alle Menner sehr müde.",
+      "wrongToken": "Menner",
+      "correctToken": "Männer"
+    },
+    {
+      "id": "fill-0029",
+      "kind": "fill-blank",
+      "category": "umlaut-eu",
+      "difficulty": 1,
+      "tags": [
+        "Umlaut-eu"
+      ],
+      "explanation": "Verwandtes Wort mit au: das Haus → Häuser.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "H_ser",
+      "options": [
+        "eu",
+        "äu"
+      ],
+      "correctOption": "äu",
+      "solutionWord": "Häuser"
+    },
+    {
+      "id": "fill-0030",
+      "kind": "fill-blank",
+      "category": "umlaut-eu",
+      "difficulty": 1,
+      "tags": [
+        "Umlaut-eu"
+      ],
+      "explanation": "Verwandtes Wort mit au: der Baum → Bäume.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "B_me",
+      "options": [
+        "eu",
+        "äu"
+      ],
+      "correctOption": "äu",
+      "solutionWord": "Bäume"
+    },
+    {
+      "id": "fill-0031",
+      "kind": "fill-blank",
+      "category": "umlaut-eu",
+      "difficulty": 1,
+      "tags": [
+        "Umlaut-eu"
+      ],
+      "explanation": "Verwandtes Wort mit au: die Maus → Mäuse.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "M_se",
+      "options": [
+        "eu",
+        "äu"
+      ],
+      "correctOption": "äu",
+      "solutionWord": "Mäuse"
+    },
+    {
+      "id": "fill-0032",
+      "kind": "fill-blank",
+      "category": "umlaut-eu",
+      "difficulty": 2,
+      "tags": [
+        "Umlaut-eu"
+      ],
+      "explanation": "Verwandtes Wort mit au: der Raum → Räume.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "R_me",
+      "options": [
+        "eu",
+        "äu"
+      ],
+      "correctOption": "äu",
+      "solutionWord": "Räume"
+    },
+    {
+      "id": "fill-0033",
+      "kind": "fill-blank",
+      "category": "umlaut-eu",
+      "difficulty": 1,
+      "tags": [
+        "Umlaut-eu"
+      ],
+      "explanation": "Verwandtes Wort mit au: laufen → läuft.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "l_ft",
+      "options": [
+        "eu",
+        "äu"
+      ],
+      "correctOption": "äu",
+      "solutionWord": "läuft"
+    },
+    {
+      "id": "fill-0034",
+      "kind": "fill-blank",
+      "category": "umlaut-eu",
+      "difficulty": 3,
+      "tags": [
+        "Umlaut-eu"
+      ],
+      "explanation": "Verwandtes Wort mit au: kaufen → Verkäufer.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "Verk_fer",
+      "options": [
+        "eu",
+        "äu"
+      ],
+      "correctOption": "äu",
+      "solutionWord": "Verkäufer"
+    },
+    {
+      "id": "fill-0035",
+      "kind": "fill-blank",
+      "category": "umlaut-eu",
+      "difficulty": 1,
+      "tags": [
+        "Umlaut-eu"
+      ],
+      "explanation": "Feuer hat kein verwandtes Wort mit au und wird mit eu geschrieben.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "F_er",
+      "options": [
+        "eu",
+        "äu"
+      ],
+      "correctOption": "eu",
+      "solutionWord": "Feuer"
+    },
+    {
+      "id": "fill-0036",
+      "kind": "fill-blank",
+      "category": "umlaut-eu",
+      "difficulty": 1,
+      "tags": [
+        "Umlaut-eu"
+      ],
+      "explanation": "Eule hat kein verwandtes Wort mit au und wird mit eu geschrieben.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "_le",
+      "options": [
+        "Eu",
+        "Äu"
+      ],
+      "correctOption": "Eu",
+      "solutionWord": "Eule"
+    },
+    {
+      "id": "dict-word-0015",
+      "kind": "dictation",
+      "category": "umlaut-eu",
+      "difficulty": 3,
+      "tags": [
+        "Umlaut-eu"
+      ],
+      "explanation": "Verwandtes Wort mit au: bauen → Gebäude.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "word",
+      "promptText": "Gebäude",
+      "acceptedAnswers": [
+        "Gebäude"
+      ],
+      "gradingMode": "strict"
+    },
+    {
+      "id": "dict-word-0016",
+      "kind": "dictation",
+      "category": "umlaut-eu",
+      "difficulty": 3,
+      "tags": [
+        "Umlaut-eu"
+      ],
+      "explanation": "Verwandtes Wort mit au: rauben → Räuber.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "word",
+      "promptText": "Räuber",
+      "acceptedAnswers": [
+        "Räuber"
+      ],
+      "gradingMode": "strict"
+    },
+    {
+      "id": "dict-word-0017",
+      "kind": "dictation",
+      "category": "umlaut-eu",
+      "difficulty": 1,
+      "tags": [
+        "Umlaut-eu"
+      ],
+      "explanation": "heute hat kein verwandtes Wort mit au und wird mit eu geschrieben.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "word",
+      "promptText": "heute",
+      "acceptedAnswers": [
+        "heute"
+      ],
+      "gradingMode": "strict"
+    },
+    {
+      "id": "dict-word-0018",
+      "kind": "dictation",
+      "category": "umlaut-eu",
+      "difficulty": 1,
+      "tags": [
+        "Umlaut-eu"
+      ],
+      "explanation": "treu hat kein verwandtes Wort mit au und wird mit eu geschrieben.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "word",
+      "promptText": "treu",
+      "acceptedAnswers": [
+        "treu"
+      ],
+      "gradingMode": "strict"
+    },
+    {
+      "id": "mistake-0014",
+      "kind": "find-mistake",
+      "category": "umlaut-eu",
+      "difficulty": 2,
+      "tags": [
+        "Umlaut-eu"
+      ],
+      "explanation": "Verwandtes Wort mit au: das Haus → Häuser.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "In unserer Straße stehen viele alte Heuser.",
+      "wrongToken": "Heuser",
+      "correctToken": "Häuser"
+    },
+    {
+      "id": "mistake-0015",
+      "kind": "find-mistake",
+      "category": "umlaut-eu",
+      "difficulty": 2,
+      "tags": [
+        "Umlaut-eu"
+      ],
+      "explanation": "Verwandtes Wort mit au: der Baum → Bäume.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Im Garten wachsen zwei große Beume.",
+      "wrongToken": "Beume",
+      "correctToken": "Bäume"
+    },
+    {
+      "id": "mistake-0016",
+      "kind": "find-mistake",
+      "category": "umlaut-eu",
+      "difficulty": 2,
+      "tags": [
+        "Umlaut-eu"
+      ],
+      "explanation": "Verwandtes Wort mit au: laufen → läuft.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Der Junge leuft jeden Morgen zur Schule.",
+      "wrongToken": "leuft",
+      "correctToken": "läuft"
+    },
+    {
+      "id": "fill-0037",
+      "kind": "fill-blank",
+      "category": "s-ss-ß",
+      "difficulty": 1,
+      "tags": [
+        "s-ss-ß"
+      ],
+      "explanation": "Nach kurzem Vokal (u) steht ss: Fluss.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "Flu_",
+      "options": [
+        "s",
+        "ss",
+        "ß"
+      ],
+      "correctOption": "ss",
+      "solutionWord": "Fluss"
+    },
+    {
+      "id": "fill-0038",
+      "kind": "fill-blank",
+      "category": "s-ss-ß",
+      "difficulty": 1,
+      "tags": [
+        "s-ss-ß"
+      ],
+      "explanation": "Nach kurzem Vokal (o) steht ss: Schloss.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "Schlo_",
+      "options": [
+        "s",
+        "ss",
+        "ß"
+      ],
+      "correctOption": "ss",
+      "solutionWord": "Schloss"
+    },
+    {
+      "id": "fill-0039",
+      "kind": "fill-blank",
+      "category": "s-ss-ß",
+      "difficulty": 1,
+      "tags": [
+        "s-ss-ß"
+      ],
+      "explanation": "Nach kurzem Vokal (a) steht ss: Wasser.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "Wa_er",
+      "options": [
+        "s",
+        "ss",
+        "ß"
+      ],
+      "correctOption": "ss",
+      "solutionWord": "Wasser"
+    },
+    {
+      "id": "fill-0040",
+      "kind": "fill-blank",
+      "category": "s-ss-ß",
+      "difficulty": 1,
+      "tags": [
+        "s-ss-ß"
+      ],
+      "explanation": "Nach kurzem Vokal (u) steht ss: Kuss.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "Ku_",
+      "options": [
+        "s",
+        "ss",
+        "ß"
+      ],
+      "correctOption": "ss",
+      "solutionWord": "Kuss"
+    },
+    {
+      "id": "fill-0041",
+      "kind": "fill-blank",
+      "category": "s-ss-ß",
+      "difficulty": 2,
+      "tags": [
+        "s-ss-ß"
+      ],
+      "explanation": "Nach langem Vokal (a) steht ß: Straße.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "Stra_e",
+      "options": [
+        "s",
+        "ss",
+        "ß"
+      ],
+      "correctOption": "ß",
+      "solutionWord": "Straße"
+    },
+    {
+      "id": "fill-0042",
+      "kind": "fill-blank",
+      "category": "s-ss-ß",
+      "difficulty": 1,
+      "tags": [
+        "s-ss-ß"
+      ],
+      "explanation": "Nach langem Vokal (u) steht ß: Fuß.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "Fu_",
+      "options": [
+        "s",
+        "ss",
+        "ß"
+      ],
+      "correctOption": "ß",
+      "solutionWord": "Fuß"
+    },
+    {
+      "id": "fill-0043",
+      "kind": "fill-blank",
+      "category": "s-ss-ß",
+      "difficulty": 2,
+      "tags": [
+        "s-ss-ß"
+      ],
+      "explanation": "Nach langem Vokal (ü) steht ß: Füße.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "Fü_e",
+      "options": [
+        "s",
+        "ss",
+        "ß"
+      ],
+      "correctOption": "ß",
+      "solutionWord": "Füße"
+    },
+    {
+      "id": "fill-0044",
+      "kind": "fill-blank",
+      "category": "s-ss-ß",
+      "difficulty": 1,
+      "tags": [
+        "s-ss-ß"
+      ],
+      "explanation": "Nach langem Vokal (o) steht ß: groß.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "gro_",
+      "options": [
+        "s",
+        "ss",
+        "ß"
+      ],
+      "correctOption": "ß",
+      "solutionWord": "groß"
+    },
+    {
+      "id": "fill-0045",
+      "kind": "fill-blank",
+      "category": "s-ss-ß",
+      "difficulty": 1,
+      "tags": [
+        "s-ss-ß"
+      ],
+      "explanation": "Nach einem Diphthong (ei) steht ß: weiß.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "wei_",
+      "options": [
+        "s",
+        "ss",
+        "ß"
+      ],
+      "correctOption": "ß",
+      "solutionWord": "weiß"
+    },
+    {
+      "id": "fill-0046",
+      "kind": "fill-blank",
+      "category": "s-ss-ß",
+      "difficulty": 3,
+      "tags": [
+        "s-ss-ß"
+      ],
+      "explanation": "Nach einem Diphthong (ei) steht ß: heißen.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "hei_en",
+      "options": [
+        "s",
+        "ss",
+        "ß"
+      ],
+      "correctOption": "ß",
+      "solutionWord": "heißen"
+    },
+    {
+      "id": "dict-word-0019",
+      "kind": "dictation",
+      "category": "s-ss-ß",
+      "difficulty": 1,
+      "tags": [
+        "s-ss-ß"
+      ],
+      "explanation": "Nach einem Diphthong (au) steht ß: Spaß.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "word",
+      "promptText": "Spaß",
+      "acceptedAnswers": [
+        "Spaß"
+      ],
+      "gradingMode": "strict"
+    },
+    {
+      "id": "dict-word-0020",
+      "kind": "dictation",
+      "category": "s-ss-ß",
+      "difficulty": 1,
+      "tags": [
+        "s-ss-ß"
+      ],
+      "explanation": "Nach langem Vokal (u) steht ß: Gruß.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "word",
+      "promptText": "Gruß",
+      "acceptedAnswers": [
+        "Gruß"
+      ],
+      "gradingMode": "strict"
+    },
+    {
+      "id": "dict-word-0021",
+      "kind": "dictation",
+      "category": "s-ss-ß",
+      "difficulty": 1,
+      "tags": [
+        "s-ss-ß"
+      ],
+      "explanation": "Nach kurzem Vokal (u) steht ss: Nuss.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "word",
+      "promptText": "Nuss",
+      "acceptedAnswers": [
+        "Nuss"
+      ],
+      "gradingMode": "strict"
+    },
+    {
+      "id": "dict-word-0022",
+      "kind": "dictation",
+      "category": "s-ss-ß",
+      "difficulty": 2,
+      "tags": [
+        "s-ss-ß"
+      ],
+      "explanation": "Nach kurzem Vokal (u) steht ss: Schuss.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "word",
+      "promptText": "Schuss",
+      "acceptedAnswers": [
+        "Schuss"
+      ],
+      "gradingMode": "strict"
+    },
+    {
+      "id": "dict-word-0023",
+      "kind": "dictation",
+      "category": "s-ss-ß",
+      "difficulty": 3,
+      "tags": [
+        "s-ss-ß"
+      ],
+      "explanation": "Nach einem Diphthong (ei) steht ß: Fleiß.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "word",
+      "promptText": "Fleiß",
+      "acceptedAnswers": [
+        "Fleiß"
+      ],
+      "gradingMode": "strict"
+    },
+    {
+      "id": "mistake-0017",
+      "kind": "find-mistake",
+      "category": "s-ss-ß",
+      "difficulty": 2,
+      "tags": [
+        "s-ss-ß"
+      ],
+      "explanation": "Nach kurzem Vokal (u) steht ss, nicht ß: Fluss.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Der Fluß in unserer Stadt ist sehr breit.",
+      "wrongToken": "Fluß",
+      "correctToken": "Fluss"
+    },
+    {
+      "id": "mistake-0018",
+      "kind": "find-mistake",
+      "category": "s-ss-ß",
+      "difficulty": 2,
+      "tags": [
+        "s-ss-ß"
+      ],
+      "explanation": "Nach einem Diphthong (au) steht ß, nicht ss: Spaß.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Nach dem Spiel tranken wir ein Glas Wasser und hatten viel Spass.",
+      "wrongToken": "Spass",
+      "correctToken": "Spaß"
+    },
+    {
+      "id": "mistake-0019",
+      "kind": "find-mistake",
+      "category": "s-ss-ß",
+      "difficulty": 3,
+      "tags": [
+        "s-ss-ß"
+      ],
+      "explanation": "Nach langem Vokal (u) steht ß, nicht ss: barfuß.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Die Kinder liefen barfuss über die Wiese.",
+      "wrongToken": "barfuss",
+      "correctToken": "barfuß"
+    },
+    {
+      "id": "mistake-0020",
+      "kind": "find-mistake",
+      "category": "s-ss-ß",
+      "difficulty": 2,
+      "tags": [
+        "s-ss-ß"
+      ],
+      "explanation": "Nach kurzem Vokal (o) steht ss, nicht ß: Schloss.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Sie wohnen in einem alten Schloß am Rande der Stadt.",
+      "wrongToken": "Schloß",
+      "correctToken": "Schloss"
+    },
+    {
+      "id": "mistake-0021",
+      "kind": "find-mistake",
+      "category": "s-ss-ß",
+      "difficulty": 2,
+      "tags": [
+        "s-ss-ß"
+      ],
+      "explanation": "Nach langem Vokal (ü) steht ß, nicht ss: süße.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Meine Schwester mag am liebsten süsse Erdbeeren.",
+      "wrongToken": "süsse",
+      "correctToken": "süße"
+    },
+    {
+      "id": "fill-0047",
+      "kind": "fill-blank",
+      "category": "silent-h",
+      "difficulty": 1,
+      "tags": [
+        "Dehnungs-h"
+      ],
+      "explanation": "Nach langem o folgt ein Dehnungs-h: Wohnung.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "W_nung",
+      "options": [
+        "o",
+        "oh"
+      ],
+      "correctOption": "oh",
+      "solutionWord": "Wohnung"
+    },
+    {
+      "id": "fill-0048",
+      "kind": "fill-blank",
+      "category": "silent-h",
+      "difficulty": 1,
+      "tags": [
+        "Dehnungs-h"
+      ],
+      "explanation": "Nach langem a folgt ein Dehnungs-h: Fahrrad.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "F_rrad",
+      "options": [
+        "a",
+        "ah"
+      ],
+      "correctOption": "ah",
+      "solutionWord": "Fahrrad"
+    },
+    {
+      "id": "fill-0049",
+      "kind": "fill-blank",
+      "category": "silent-h",
+      "difficulty": 1,
+      "tags": [
+        "Dehnungs-h"
+      ],
+      "explanation": "Nach langem u folgt ein Dehnungs-h: Stuhl.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "St_l",
+      "options": [
+        "u",
+        "uh"
+      ],
+      "correctOption": "uh",
+      "solutionWord": "Stuhl"
+    },
+    {
+      "id": "fill-0050",
+      "kind": "fill-blank",
+      "category": "silent-h",
+      "difficulty": 2,
+      "tags": [
+        "Dehnungs-h"
+      ],
+      "explanation": "Nach langem o folgt ein Dehnungs-h: Sohn.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "S_n",
+      "options": [
+        "o",
+        "oh"
+      ],
+      "correctOption": "oh",
+      "solutionWord": "Sohn"
+    },
+    {
+      "id": "fill-0051",
+      "kind": "fill-blank",
+      "category": "silent-h",
+      "difficulty": 1,
+      "tags": [
+        "Dehnungs-h"
+      ],
+      "explanation": "Nach langem u folgt ein Dehnungs-h: Schuhe.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "Sch_e",
+      "options": [
+        "u",
+        "uh"
+      ],
+      "correctOption": "uh",
+      "solutionWord": "Schuhe"
+    },
+    {
+      "id": "fill-0052",
+      "kind": "fill-blank",
+      "category": "silent-h",
+      "difficulty": 2,
+      "tags": [
+        "Dehnungs-h"
+      ],
+      "explanation": "Nach langem u folgt ein Dehnungs-h: ruhig.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "r_ig",
+      "options": [
+        "u",
+        "uh"
+      ],
+      "correctOption": "uh",
+      "solutionWord": "ruhig"
+    },
+    {
+      "id": "fill-0053",
+      "kind": "fill-blank",
+      "category": "silent-h",
+      "difficulty": 1,
+      "tags": [
+        "Dehnungs-h"
+      ],
+      "explanation": "Nach langem e folgt ein Dehnungs-h: sehen.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "s_en",
+      "options": [
+        "e",
+        "eh"
+      ],
+      "correctOption": "eh",
+      "solutionWord": "sehen"
+    },
+    {
+      "id": "fill-0054",
+      "kind": "fill-blank",
+      "category": "silent-h",
+      "difficulty": 1,
+      "tags": [
+        "Dehnungs-h"
+      ],
+      "explanation": "Nach langem o folgt ein Dehnungs-h: Ohren.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "_ren",
+      "options": [
+        "O",
+        "Oh"
+      ],
+      "correctOption": "Oh",
+      "solutionWord": "Ohren"
+    },
+    {
+      "id": "dict-word-0024",
+      "kind": "dictation",
+      "category": "silent-h",
+      "difficulty": 1,
+      "tags": [
+        "Dehnungs-h"
+      ],
+      "explanation": "Nach langem o folgt ein Dehnungs-h: Ohr.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "word",
+      "promptText": "Ohr",
+      "acceptedAnswers": [
+        "Ohr"
+      ],
+      "gradingMode": "strict"
+    },
+    {
+      "id": "dict-word-0025",
+      "kind": "dictation",
+      "category": "silent-h",
+      "difficulty": 1,
+      "tags": [
+        "Dehnungs-h"
+      ],
+      "explanation": "Nach langem u folgt ein Dehnungs-h: Ruhe.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "word",
+      "promptText": "Ruhe",
+      "acceptedAnswers": [
+        "Ruhe"
+      ],
+      "gradingMode": "strict"
+    },
+    {
+      "id": "dict-word-0026",
+      "kind": "dictation",
+      "category": "silent-h",
+      "difficulty": 2,
+      "tags": [
+        "Dehnungs-h"
+      ],
+      "explanation": "Nach langem ie folgt ein Dehnungs-h: ziehen.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "word",
+      "promptText": "ziehen",
+      "acceptedAnswers": [
+        "ziehen"
+      ],
+      "gradingMode": "strict"
+    },
+    {
+      "id": "dict-word-0027",
+      "kind": "dictation",
+      "category": "silent-h",
+      "difficulty": 3,
+      "tags": [
+        "Dehnungs-h"
+      ],
+      "explanation": "Nach langem a folgt ein Dehnungs-h: nahe.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "word",
+      "promptText": "nahe",
+      "acceptedAnswers": [
+        "nahe"
+      ],
+      "gradingMode": "strict"
+    },
+    {
+      "id": "mistake-0022",
+      "kind": "find-mistake",
+      "category": "silent-h",
+      "difficulty": 2,
+      "tags": [
+        "Dehnungs-h"
+      ],
+      "explanation": "Nach langem o folgt ein Dehnungs-h: wohnen.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Wir wonen seit drei Jahren in dieser Straße.",
+      "wrongToken": "wonen",
+      "correctToken": "wohnen"
+    },
+    {
+      "id": "mistake-0023",
+      "kind": "find-mistake",
+      "category": "silent-h",
+      "difficulty": 3,
+      "tags": [
+        "Dehnungs-h"
+      ],
+      "explanation": "Nach langem a folgt ein Dehnungs-h: fahren.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Wir faren jedes Jahr in den Urlaub.",
+      "wrongToken": "faren",
+      "correctToken": "fahren"
+    },
+    {
+      "id": "mistake-0024",
+      "kind": "find-mistake",
+      "category": "silent-h",
+      "difficulty": 2,
+      "tags": [
+        "Dehnungs-h"
+      ],
+      "explanation": "Nach langem u folgt ein Dehnungs-h: ruhig.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Die Kuh steht ruig auf der Wiese.",
+      "wrongToken": "ruig",
+      "correctToken": "ruhig"
+    },
+    {
+      "id": "fill-0055",
+      "kind": "fill-blank",
+      "category": "das-dass",
+      "difficulty": 2,
+      "tags": [
+        "das-dass"
+      ],
+      "explanation": "Nach glauben folgt die Konjunktion dass, die einen Nebensatz einleitet.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "Ich glaube, ___ er heute kommt.",
+      "options": [
+        "das",
+        "dass"
+      ],
+      "correctOption": "dass",
+      "solutionWord": "dass"
+    },
+    {
+      "id": "fill-0056",
+      "kind": "fill-blank",
+      "category": "das-dass",
+      "difficulty": 1,
+      "tags": [
+        "das-dass"
+      ],
+      "explanation": "das ist hier Artikel/Pronomen vor dem Nomen Auto.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "___ Auto steht vor dem Haus.",
+      "options": [
+        "das",
+        "dass"
+      ],
+      "correctOption": "das",
+      "solutionWord": "das"
+    },
+    {
+      "id": "fill-0057",
+      "kind": "fill-blank",
+      "category": "das-dass",
+      "difficulty": 2,
+      "tags": [
+        "das-dass"
+      ],
+      "explanation": "Nach hoffen folgt die Konjunktion dass, die einen Nebensatz einleitet.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "Sie hofft, ___ es morgen nicht regnet.",
+      "options": [
+        "das",
+        "dass"
+      ],
+      "correctOption": "dass",
+      "solutionWord": "dass"
+    },
+    {
+      "id": "fill-0058",
+      "kind": "fill-blank",
+      "category": "das-dass",
+      "difficulty": 1,
+      "tags": [
+        "das-dass"
+      ],
+      "explanation": "das ist hier Artikel vor dem Nomen Buch.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "___ Buch liegt auf dem Tisch.",
+      "options": [
+        "das",
+        "dass"
+      ],
+      "correctOption": "das",
+      "solutionWord": "das"
+    },
+    {
+      "id": "fill-0059",
+      "kind": "fill-blank",
+      "category": "das-dass",
+      "difficulty": 2,
+      "tags": [
+        "das-dass"
+      ],
+      "explanation": "Nach sagen folgt die Konjunktion dass, die einen Nebensatz einleitet.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "Er sagt, ___ er müde ist.",
+      "options": [
+        "das",
+        "dass"
+      ],
+      "correctOption": "dass",
+      "solutionWord": "dass"
+    },
+    {
+      "id": "fill-0060",
+      "kind": "fill-blank",
+      "category": "das-dass",
+      "difficulty": 2,
+      "tags": [
+        "das-dass"
+      ],
+      "explanation": "das ist hier Artikel/Pronomen vor dem Nomen Kind.",
+      "source": "Eigenproduktion Klasse 6",
+      "promptMasked": "Ich habe gehört, ___ Kind schläft schon.",
+      "options": [
+        "das",
+        "dass"
+      ],
+      "correctOption": "das",
+      "solutionWord": "das"
+    },
+    {
+      "id": "dict-sent-0001",
+      "kind": "dictation",
+      "category": "das-dass",
+      "difficulty": 1,
+      "tags": [
+        "das-dass"
+      ],
+      "explanation": "dass leitet hier einen Nebensatz ein.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "sentence",
+      "promptText": "Ich glaube, dass es heute regnet.",
+      "acceptedAnswers": [
+        "Ich glaube, dass es heute regnet."
+      ],
+      "gradingMode": "relaxed-punctuation"
+    },
+    {
+      "id": "dict-sent-0002",
+      "kind": "dictation",
+      "category": "das-dass",
+      "difficulty": 1,
+      "tags": [
+        "das-dass"
+      ],
+      "explanation": "das ist hier Artikel vor dem Nomen Wetter.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "sentence",
+      "promptText": "Das Wetter ist heute sehr schön.",
+      "acceptedAnswers": [
+        "Das Wetter ist heute sehr schön."
+      ],
+      "gradingMode": "relaxed-punctuation"
+    },
+    {
+      "id": "dict-sent-0003",
+      "kind": "dictation",
+      "category": "das-dass",
+      "difficulty": 2,
+      "tags": [
+        "das-dass"
+      ],
+      "explanation": "dass leitet hier einen Nebensatz ein.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "sentence",
+      "promptText": "Er hofft, dass die Prüfung leicht wird.",
+      "acceptedAnswers": [
+        "Er hofft, dass die Prüfung leicht wird."
+      ],
+      "gradingMode": "relaxed-punctuation"
+    },
+    {
+      "id": "dict-sent-0004",
+      "kind": "dictation",
+      "category": "das-dass",
+      "difficulty": 2,
+      "tags": [
+        "das-dass"
+      ],
+      "explanation": "das ist hier Artikel vor dem Nomen Fahrrad.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "sentence",
+      "promptText": "Das Fahrrad steht vor der Schule.",
+      "acceptedAnswers": [
+        "Das Fahrrad steht vor der Schule."
+      ],
+      "gradingMode": "relaxed-punctuation"
+    },
+    {
+      "id": "mistake-0025",
+      "kind": "find-mistake",
+      "category": "das-dass",
+      "difficulty": 2,
+      "tags": [
+        "das-dass"
+      ],
+      "explanation": "Nach hoffen folgt die Konjunktion dass, nicht das Pronomen das.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Ich hoffe, das du bald gesund wirst.",
+      "wrongToken": "das",
+      "correctToken": "dass"
+    },
+    {
+      "id": "mistake-0026",
+      "kind": "find-mistake",
+      "category": "das-dass",
+      "difficulty": 4,
+      "tags": [
+        "das-dass"
+      ],
+      "explanation": "Hier steht das Relativpronomen das, das sich auf Haus bezieht, nicht die Konjunktion dass.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Das Haus, dass am Ende der Straße steht, gehört meinem Onkel.",
+      "wrongToken": "dass",
+      "correctToken": "das"
+    },
+    {
+      "id": "mistake-0027",
+      "kind": "find-mistake",
+      "category": "das-dass",
+      "difficulty": 2,
+      "tags": [
+        "das-dass"
+      ],
+      "explanation": "Nach meinen folgt die Konjunktion dass, nicht das Pronomen das.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Sie meint, das sie Recht hat.",
+      "wrongToken": "das",
+      "correctToken": "dass"
+    },
+    {
+      "id": "mistake-0028",
+      "kind": "find-mistake",
+      "category": "das-dass",
+      "difficulty": 2,
+      "tags": [
+        "das-dass"
+      ],
+      "explanation": "Nach sich freuen folgt die Konjunktion dass, nicht das Pronomen das.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Ich freue mich, das wir uns bald wiedersehen.",
+      "wrongToken": "das",
+      "correctToken": "dass"
+    },
+    {
+      "id": "mistake-0029",
+      "kind": "find-mistake",
+      "category": "das-dass",
+      "difficulty": 3,
+      "tags": [
+        "das-dass"
+      ],
+      "explanation": "Hier steht der Artikel das vor dem Nomen Fenster, nicht die Konjunktion dass.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Weißt du, ob dass Fenster offen ist?",
+      "wrongToken": "dass",
+      "correctToken": "das"
+    },
+    {
+      "id": "capitalization-0001",
+      "kind": "capitalization",
+      "category": "capitalization",
+      "difficulty": 1,
+      "tags": [
+        "Großschreibung"
+      ],
+      "explanation": "Satzanfänge und Nomen werden großgeschrieben.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "der hund spielt im garten.",
+      "correctWords": [
+        "Der",
+        "Hund",
+        "Garten"
+      ]
+    },
+    {
+      "id": "capitalization-0002",
+      "kind": "capitalization",
+      "category": "capitalization",
+      "difficulty": 1,
+      "tags": [
+        "Großschreibung"
+      ],
+      "explanation": "Satzanfänge und Nomen werden großgeschrieben.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "meine mutter kauft frisches brot beim bäcker.",
+      "correctWords": [
+        "Meine",
+        "Mutter",
+        "Brot",
+        "Bäcker"
+      ]
+    },
+    {
+      "id": "capitalization-0003",
+      "kind": "capitalization",
+      "category": "capitalization",
+      "difficulty": 1,
+      "tags": [
+        "Großschreibung"
+      ],
+      "explanation": "Satzanfänge und Nomen werden großgeschrieben.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "am sonntag gehen wir in die kirche.",
+      "correctWords": [
+        "Am",
+        "Sonntag",
+        "Kirche"
+      ]
+    },
+    {
+      "id": "capitalization-0004",
+      "kind": "capitalization",
+      "category": "capitalization",
+      "difficulty": 1,
+      "tags": [
+        "Großschreibung"
+      ],
+      "explanation": "Satzanfänge und Nomen werden großgeschrieben.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "die kinder spielen fußball auf dem schulhof.",
+      "correctWords": [
+        "Die",
+        "Kinder",
+        "Fußball",
+        "Schulhof"
+      ]
+    },
+    {
+      "id": "capitalization-0005",
+      "kind": "capitalization",
+      "category": "capitalization",
+      "difficulty": 1,
+      "tags": [
+        "Großschreibung"
+      ],
+      "explanation": "Satzanfänge und Nomen werden großgeschrieben.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "er liest jeden abend ein spannendes buch.",
+      "correctWords": [
+        "Er",
+        "Abend",
+        "Buch"
+      ]
+    },
+    {
+      "id": "capitalization-0006",
+      "kind": "capitalization",
+      "category": "capitalization",
+      "difficulty": 2,
+      "tags": [
+        "Großschreibung"
+      ],
+      "explanation": "Satzanfänge und Nomen werden großgeschrieben.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "im winter schneit es oft in den bergen.",
+      "correctWords": [
+        "Im",
+        "Winter",
+        "Bergen"
+      ]
+    },
+    {
+      "id": "capitalization-0007",
+      "kind": "capitalization",
+      "category": "capitalization",
+      "difficulty": 2,
+      "tags": [
+        "Großschreibung"
+      ],
+      "explanation": "Satzanfänge und zusammengesetzte Nomen werden großgeschrieben.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "meine schwester lernt gerade für die matheprüfung.",
+      "correctWords": [
+        "Meine",
+        "Schwester",
+        "Matheprüfung"
+      ]
+    },
+    {
+      "id": "capitalization-0008",
+      "kind": "capitalization",
+      "category": "capitalization",
+      "difficulty": 3,
+      "tags": [
+        "Großschreibung"
+      ],
+      "explanation": "Substantivierte Verben wie Lesen werden großgeschrieben.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "das lesen macht mir sehr viel spaß.",
+      "correctWords": [
+        "Das",
+        "Lesen",
+        "Spaß"
+      ]
+    },
+    {
+      "id": "capitalization-0009",
+      "kind": "capitalization",
+      "category": "capitalization",
+      "difficulty": 3,
+      "tags": [
+        "Großschreibung"
+      ],
+      "explanation": "Substantivierte Verben nach Präpositionen wie beim werden großgeschrieben.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "beim schwimmen kann man sich gut entspannen.",
+      "correctWords": [
+        "Beim",
+        "Schwimmen"
+      ]
+    },
+    {
+      "id": "capitalization-0010",
+      "kind": "capitalization",
+      "category": "capitalization",
+      "difficulty": 2,
+      "tags": [
+        "Großschreibung"
+      ],
+      "explanation": "Satzanfänge und Nomen werden großgeschrieben, das Adjektiv armen bleibt klein.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "wir sollten den armen menschen helfen.",
+      "correctWords": [
+        "Wir",
+        "Menschen"
+      ]
+    },
+    {
+      "id": "capitalization-0011",
+      "kind": "capitalization",
+      "category": "capitalization",
+      "difficulty": 4,
+      "tags": [
+        "Großschreibung"
+      ],
+      "explanation": "In der festen Fügung im Allgemeinen wird das substantivierte Adjektiv großgeschrieben.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "im allgemeinen mögen kinder süßigkeiten.",
+      "correctWords": [
+        "Im",
+        "Allgemeinen",
+        "Kinder",
+        "Süßigkeiten"
+      ]
+    },
+    {
+      "id": "capitalization-0012",
+      "kind": "capitalization",
+      "category": "capitalization",
+      "difficulty": 2,
+      "tags": [
+        "Großschreibung"
+      ],
+      "explanation": "Satzanfänge und Nomen werden großgeschrieben.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "die lehrerin erklärt den schülern die aufgabe genau.",
+      "correctWords": [
+        "Die",
+        "Lehrerin",
+        "Schülern",
+        "Aufgabe"
+      ]
+    },
+    {
+      "id": "capitalization-0013",
+      "kind": "capitalization",
+      "category": "capitalization",
+      "difficulty": 3,
+      "tags": [
+        "Großschreibung"
+      ],
+      "explanation": "Substantivierte Verben wie Essen werden großgeschrieben.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "nach dem essen räumen wir gemeinsam die küche auf.",
+      "correctWords": [
+        "Nach",
+        "Essen",
+        "Küche"
+      ]
+    },
+    {
+      "id": "capitalization-0014",
+      "kind": "capitalization",
+      "category": "capitalization",
+      "difficulty": 2,
+      "tags": [
+        "Großschreibung"
+      ],
+      "explanation": "Satzanfänge und Nomen werden großgeschrieben.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "am morgen trinkt mein vater immer einen kaffee.",
+      "correctWords": [
+        "Am",
+        "Morgen",
+        "Vater",
+        "Kaffee"
+      ]
+    },
+    {
+      "id": "capitalization-0015",
+      "kind": "capitalization",
+      "category": "capitalization",
+      "difficulty": 2,
+      "tags": [
+        "Großschreibung"
+      ],
+      "explanation": "Satzanfänge, Nomen und Monatsnamen werden großgeschrieben.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "die klasse fährt im mai auf klassenfahrt.",
+      "correctWords": [
+        "Die",
+        "Klasse",
+        "Mai",
+        "Klassenfahrt"
+      ]
+    },
+    {
+      "id": "capitalization-0016",
+      "kind": "capitalization",
+      "category": "capitalization",
+      "difficulty": 4,
+      "tags": [
+        "Großschreibung"
+      ],
+      "explanation": "Substantivierte Verben wie Schwimmen und Joggen werden großgeschrieben.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "er interessiert sich sehr für das schwimmen und das joggen.",
+      "correctWords": [
+        "Er",
+        "Schwimmen",
+        "Joggen"
+      ]
+    },
+    {
+      "id": "capitalization-0017",
+      "kind": "capitalization",
+      "category": "capitalization",
+      "difficulty": 2,
+      "tags": [
+        "Großschreibung"
+      ],
+      "explanation": "Satzanfänge, Nomen und Eigennamen werden großgeschrieben.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "die familie verbringt den urlaub an der ostsee.",
+      "correctWords": [
+        "Die",
+        "Familie",
+        "Urlaub",
+        "Ostsee"
+      ]
+    },
+    {
+      "id": "capitalization-0018",
+      "kind": "capitalization",
+      "category": "capitalization",
+      "difficulty": 3,
+      "tags": [
+        "Großschreibung"
+      ],
+      "explanation": "In der festen Fügung zum Glück wird das Nomen Glück großgeschrieben.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "zum glück hat sie ihren schlüssel wiedergefunden.",
+      "correctWords": [
+        "Zum",
+        "Glück",
+        "Schlüssel"
+      ]
+    },
+    {
+      "id": "capitalization-0019",
+      "kind": "capitalization",
+      "category": "capitalization",
+      "difficulty": 2,
+      "tags": [
+        "Großschreibung"
+      ],
+      "explanation": "Satzanfänge und Nomen werden großgeschrieben.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "die schüler und lehrer feiern gemeinsam das schulfest.",
+      "correctWords": [
+        "Die",
+        "Schüler",
+        "Lehrer",
+        "Schulfest"
+      ]
+    },
+    {
+      "id": "capitalization-0020",
+      "kind": "capitalization",
+      "category": "capitalization",
+      "difficulty": 5,
+      "tags": [
+        "Großschreibung"
+      ],
+      "explanation": "In der festen Fügung im Großen und Ganzen werden die substantivierten Adjektive großgeschrieben, ebenso das substantivierte Verb Wandern.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "im großen und ganzen war das wandern ein schönes erlebnis.",
+      "correctWords": [
+        "Im",
+        "Großen",
+        "Ganzen",
+        "Wandern",
+        "Erlebnis"
+      ]
+    },
+    {
+      "id": "dict-sent-0005",
+      "kind": "dictation",
+      "category": "mixed",
+      "difficulty": 3,
+      "tags": [
+        "gemischt"
+      ],
+      "explanation": "Übt gleichzeitig ie-Schreibung (Wiese) und Doppelkonsonanten (spielen, fröhlich).",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "sentence",
+      "promptText": "Die Kinder spielen fröhlich auf der grünen Wiese hinter dem Haus.",
+      "acceptedAnswers": [
+        "Die Kinder spielen fröhlich auf der grünen Wiese hinter dem Haus."
+      ],
+      "gradingMode": "relaxed-punctuation"
+    },
+    {
+      "id": "dict-sent-0006",
+      "kind": "dictation",
+      "category": "mixed",
+      "difficulty": 3,
+      "tags": [
+        "gemischt"
+      ],
+      "explanation": "Übt gleichzeitig dass nach glauben und den Umlaut ä (Bäckerei) sowie das Dehnungs-h (früh).",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "sentence",
+      "promptText": "Ich glaube, dass die Bäckerei am Samstag schon früh öffnet.",
+      "acceptedAnswers": [
+        "Ich glaube, dass die Bäckerei am Samstag schon früh öffnet."
+      ],
+      "gradingMode": "relaxed-punctuation"
+    },
+    {
+      "id": "dict-sent-0007",
+      "kind": "dictation",
+      "category": "mixed",
+      "difficulty": 3,
+      "tags": [
+        "gemischt"
+      ],
+      "explanation": "Übt gleichzeitig Doppelkonsonant (Sommer), Dehnungs-h (fahren, Fahrrad) und ß nach langem Vokal (großen).",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "sentence",
+      "promptText": "Im Sommer fahren wir oft mit dem Fahrrad an den großen See.",
+      "acceptedAnswers": [
+        "Im Sommer fahren wir oft mit dem Fahrrad an den großen See."
+      ],
+      "gradingMode": "relaxed-punctuation"
+    },
+    {
+      "id": "dict-sent-0008",
+      "kind": "dictation",
+      "category": "mixed",
+      "difficulty": 4,
+      "tags": [
+        "gemischt"
+      ],
+      "explanation": "Übt gleichzeitig den Umlaut äu (Mäuse) und ß nach langem Vokal (Straße).",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "sentence",
+      "promptText": "Die Mäuse liefen schnell über die Straße und versteckten sich im Gebüsch.",
+      "acceptedAnswers": [
+        "Die Mäuse liefen schnell über die Straße und versteckten sich im Gebüsch."
+      ],
+      "gradingMode": "relaxed-punctuation"
+    },
+    {
+      "id": "dict-sent-0009",
+      "kind": "dictation",
+      "category": "mixed",
+      "difficulty": 3,
+      "tags": [
+        "gemischt"
+      ],
+      "explanation": "Übt gleichzeitig ß nach langem Vokal (Füße) und weitere Rechtschreibmuster im Satzzusammenhang.",
+      "source": "Eigenproduktion Klasse 6",
+      "subtype": "sentence",
+      "promptText": "Meine Füße taten nach dem langen Spaziergang ziemlich weh.",
+      "acceptedAnswers": [
+        "Meine Füße taten nach dem langen Spaziergang ziemlich weh."
+      ],
+      "gradingMode": "relaxed-punctuation"
+    },
+    {
+      "id": "mistake-0030",
+      "kind": "find-mistake",
+      "category": "mixed",
+      "difficulty": 2,
+      "tags": [
+        "gemischt"
+      ],
+      "explanation": "Nach kurzem Vokal (a) steht ein doppelter Konsonant: Wasser.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Nach der langen Wanderung waren wir alle sehr müde und durstig, deshalb tranken wir viel Waser.",
+      "wrongToken": "Waser",
+      "correctToken": "Wasser"
+    },
+    {
+      "id": "mistake-0031",
+      "kind": "find-mistake",
+      "category": "mixed",
+      "difficulty": 3,
+      "tags": [
+        "gemischt"
+      ],
+      "explanation": "Nach behaupten folgt die Konjunktion dass, nicht das Pronomen das.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Er behauptet, das er die Prüfung ohne Probleme bestehen wird.",
+      "wrongToken": "das",
+      "correctToken": "dass"
+    },
+    {
+      "id": "mistake-0032",
+      "kind": "find-mistake",
+      "category": "mixed",
+      "difficulty": 3,
+      "tags": [
+        "gemischt"
+      ],
+      "explanation": "Im Deutschen (Deutschland) wird nach langem Vokal ß geschrieben: Straße.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Die Häuser in dieser Strasse sind alle über hundert Jahre alt.",
+      "wrongToken": "Strasse",
+      "correctToken": "Straße"
+    },
+    {
+      "id": "mistake-0033",
+      "kind": "find-mistake",
+      "category": "mixed",
+      "difficulty": 3,
+      "tags": [
+        "gemischt"
+      ],
+      "explanation": "Im Deutschen (Deutschland) wird nach langem Vokal ß geschrieben: Großeltern.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Am Wochenende besuchen wir unsere Grosseltern auf dem Land.",
+      "wrongToken": "Grosseltern",
+      "correctToken": "Großeltern"
+    },
+    {
+      "id": "mistake-0034",
+      "kind": "find-mistake",
+      "category": "mixed",
+      "difficulty": 3,
+      "tags": [
+        "gemischt"
+      ],
+      "explanation": "Nach langem ü folgt ein Dehnungs-h: Frühling.",
+      "source": "Eigenproduktion Klasse 6",
+      "sentence": "Die Blumen im Garten blühen jedes Jahr im Früling besonders schön.",
+      "wrongToken": "Früling",
+      "correctToken": "Frühling"
+    }
+  ]
+}
